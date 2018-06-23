@@ -4,6 +4,9 @@ See live music events scheduled for a date
 bootcamp project 1
 June 20, 2018
 
+Link to deployed project
+https://rmxjohnson.github.io/Cleveland-Live-Music/
+
 Rhonda Johnson, Stacie Knisley, Brian Macauley, Jason Way
 
 
